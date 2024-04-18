@@ -6,7 +6,7 @@
 ### <div align="center">Hi there!👋 I'm Ivan, backend developer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Dia Marketplace](https://github.com/HstrPrn/Dia_Marketplace/)  
+<div hide=true>- 🔭 I’m currently working on [Dia Marketplace](https://github.com/HstrPrn/Dia_Marketplace/)<\div>
   
 
 - ⚡ Fun fact: I use tabs over spaces  
